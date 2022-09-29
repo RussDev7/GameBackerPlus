@@ -44,7 +44,7 @@ Changes since version V. 3.8.0
  - Fixed DEBUG rendering
  - Fixed app name in registry
 
-Changes since version V. 3.9.0
+Changes since version V. 3.9.0 - Posted 01SEP19.
  - Fixed app launch for non-admin feature
  - Now does not issue messy CMD on start
  - Cleaned up much needed code
