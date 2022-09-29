@@ -51,7 +51,7 @@ Changes since version V. 3.9.0
 
 ## Download
 
-- [GitHub Releases](https://github.com/RussDev7/CoreKeepersWorkshop/releases)
+- [GitHub Releases](https://github.com/RussDev7/GameBackerPlus/releases)
 
 ## Support & Credits
 
