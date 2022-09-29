@@ -1,0 +1,21 @@
+Changes since version V. 3.0.0
+ - Test release
+
+Changes since version V. 3.6.0                                                                                                                                                                
+ - Initial release
+
+Changes since version V. 3.7.2                                                                                                                                                                
+ - Fixed restore tab bug
+ - Performace Improvment's
+ - Cleaned code
+
+Changes since version V. 3.8.0                                                                                                                                                               
+ - Removed the need for admin
+ - First launch now opens GUI
+ - Fixed DEBUG rendering
+ - Fixed app name in regristy
+
+Changes since version V. 3.9.0 
+ - Fixed app launch for non-admin feature
+ - Now does not issue messy CMD on start
+ - Cleaned up much needed code
