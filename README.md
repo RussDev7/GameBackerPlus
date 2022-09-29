@@ -2,7 +2,7 @@
 
 # GameBackerPlus
 
-[![Build status](https://ci.appveyor.com/api/projects/status/louecd5l7lvp4hvo?svg=true)](https://ci.appveyor.com/project/RussDev7/GameBackerPlus) [![GitHub Version](https://img.shields.io/github/tag/RussDev7/GameBackerPlus?label=GitHub)](https://github.com/RussDev7/GameBackerPlus) [![Contributors](https://img.shields.io/github/contributors/RussDev7/GameBackerPlus)](https://github.com/RussDev7/GameBackerPlus)
+[![Build status](https://ci.appveyor.com/api/projects/status/sfbfapoc0jps0o6p?svg=true)](https://ci.appveyor.com/project/RussDev7/gamebackerplus) [![GitHub Version](https://img.shields.io/github/tag/RussDev7/GameBackerPlus?label=GitHub)](https://github.com/RussDev7/GameBackerPlus) [![Contributors](https://img.shields.io/github/contributors/RussDev7/GameBackerPlus)](https://github.com/RussDev7/GameBackerPlus)
 
 ![tKZww71](https://user-images.githubusercontent.com/33048298/192936755-36b318ab-f9e2-4868-bacc-c193e1f0ae76.jpg)
 
